@@ -5,6 +5,13 @@
 - HTML, CSS, JavaScript
 - React.js, Vue.js, Node.js
 
+**📫 How to reach me**
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004319825599)](https://www.facebook.com/profile.php?id=100004319825599)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dev_usage/)](https://twitter.com/dev_usage/)
+[![Blog Badge](https://img.shields.io/badge/blog-tistory-lightgrey?link=https://usage.tistory.com/)](https://usage.tistory.com/)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usageness&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
