@@ -11,18 +11,22 @@
 
 서울과학기술대학교에서 컴퓨터 공학을 전공하고 있는 김용래입니다. 프론트엔드 개발에 관심이 많고, 다양한 프로젝트에 참여중입니다.
 
-### 🏃‍ 활동
 
-- **서울과학기술대학교 컴퓨터공학과** ( 2017.03 ~ )
+### 🏃‍ 
+
+- **서울과학기술대학교 컴퓨터공학과** 재학 ( 2017.03 ~ )
 - 2019 **군장병 공개 SW 집체교육** 수료 ( 2019.07 ~ 2019.10 )
+- 서울과학기술대학교 컴퓨터공학과 개발동아리 TCP 팀장 ( 2021.01 ~ )
 
-### 
 
-**📫 How to reach me**
+### 🎈
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004319825599)](https://www.facebook.com/profile.php?id=100004319825599)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dev_usage/)](https://twitter.com/dev_usage/)
-[![Blog Badge](https://img.shields.io/badge/blog-tistory-lightgrey?link=https://usage.tistory.com/)](https://usage.tistory.com/)
+- 2018 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 ( UCPC ) 참가
+- 2018 삼성 대학생 프로그래밍 경진대회 ( SCPC ) 참가
+- 2019 정보처리기능사 취득
+
+
+### 📫 ㅤ  [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004319825599)](https://www.facebook.com/profile.php?id=100004319825599) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dev_usage/)](https://twitter.com/dev_usage/) [![Blog Badge](https://img.shields.io/badge/blog-tistory-lightgrey?link=https://usage.tistory.com/)](https://usage.tistory.com/)
 
 
 ---
