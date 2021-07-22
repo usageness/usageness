@@ -32,12 +32,17 @@
 
 ㅤ 
 
-## 📫 ㅤ  [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004319825599)](https://www.facebook.com/profile.php?id=100004319825599) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dev_usage/)](https://twitter.com/dev_usage/) [![Blog Badge](https://img.shields.io/badge/blog-tistory-lightgrey?link=https://usage.tistory.com/)](https://usage.tistory.com/)
+## 📫 
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004319825599)](https://www.facebook.com/profile.php?id=100004319825599) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dev_usage/)](https://twitter.com/dev_usage/) [![Blog Badge](https://img.shields.io/badge/blog-tistory-lightgrey?link=https://usage.tistory.com/)](https://usage.tistory.com/)
+
+**[📄 이력서](https://bald-snout-7e8.notion.site/015656e40253432f907656e4d4515b38)**
+ㅤ 
 
 ㅤ 
-ㅤ 
-
-
+---
+ㅤ
+ㅤ
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr9389)](https://solved.ac/kyr9389)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usageness&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=usageness&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
