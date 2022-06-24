@@ -1,55 +1,23 @@
-# 안녕하세요! 👋
+<div align="center">
 
-[![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](#)
-[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](#)
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white)](#)
-[![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](#)
-[![Express Badge](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)](#)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kyr9389)](https://solved.ac/kyr9389)
+[![usage](https://user-images.githubusercontent.com/28296575/175560207-d918025a-39ce-4ede-8cf2-e9fc51840227.png)](https://bald-snout-7e8.notion.site/015656e40253432f907656e4d4515b38)
 
-서울과학기술대학교에서 컴퓨터 공학을 전공하고 있는 김용래입니다. 
-프론트엔드 개발에 관심이 많고, 다양한 프로젝트에 참여중입니다.
-
-ㅤ 
+배움이 즐거운 프론트엔드 개발자 **유세지**입니다.
 
 
-## 🏃‍ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusageness&count_bg=%23D2F7B6&title_bg=%2379C83D&icon=buymeacoffee.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Blog Badge](https://img.shields.io/badge/blog-tistory-lightgrey?link=https://usage.tistory.com/)](https://usage.tistory.com/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dev_usage/)](https://twitter.com/dev_usage/)  [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004319825599)](https://www.facebook.com/profile.php?id=100004319825599)
 
-- **서울과학기술대학교 컴퓨터공학과** 재학 ( 2017.03 ~ )
-- 2019 **군장병 공개 SW 집체교육** 수료 ( 2019.07 ~ 2019.10 )
-- 서울과학기술대학교 컴퓨터공학과 개발동아리 TCP 팀장 ( 2021.01 ~ 2022.05 )
-- **우아한테크코스** 4기 프론트엔드 진행중 ( 2022.02 ~ )
+| 🥇 Solved.ac Rating | 🏆 GitHub Trophy |
+| ------------- | ------------- |
+|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr9389)](https://solved.ac/kyr9389)|[![trophy](https://github-profile-trophy.vercel.app/?username=usageness&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)|
 
-ㅤ 
 
-## 🎈
-
-- 2018 Kakao Code Festival 참가
-- 2018 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 ( UCPC ) 참가
-- 2018 삼성 대학생 프로그래밍 경진대회 ( SCPC ) 참가
-- 2019 정보처리기능사 취득
-- 2021 삼성 대학생 프로그래밍 경진대회 ( SCPC ) 참가
-- 2021 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 ( UCPC ) 참가
-ㅤ 
-
-## 📫 
-
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004319825599)](https://www.facebook.com/profile.php?id=100004319825599) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dev_usage/)](https://twitter.com/dev_usage/) [![Blog Badge](https://img.shields.io/badge/blog-tistory-lightgrey?link=https://usage.tistory.com/)](https://usage.tistory.com/)
-
-- **[📄 Resume](https://bald-snout-7e8.notion.site/015656e40253432f907656e4d4515b38)**
-ㅤ 
-
-ㅤ 
----
-ㅤ
-ㅤ
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr9389)](https://solved.ac/kyr9389)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usageness&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=usageness&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=usageness&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
+<!-- **[📄 Resume](https://bald-snout-7e8.notion.site/015656e40253432f907656e4d4515b38)** -->
+  
+<!--
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usageness&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=usageness&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)|
+-->
 
 <!--
 **usageness/usageness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
