@@ -1,6 +1,6 @@
 <div align="center">
 
-[![usage](https://user-images.githubusercontent.com/28296575/175560207-d918025a-39ce-4ede-8cf2-e9fc51840227.png)](https://bald-snout-7e8.notion.site/015656e40253432f907656e4d4515b38)
+[![usage](https://user-images.githubusercontent.com/28296575/175560207-d918025a-39ce-4ede-8cf2-e9fc51840227.png)](https://usageness.notion.site/015656e40253432f907656e4d4515b38)
 
 배움이 즐거운 프론트엔드 개발자 **유세지**입니다.
 
